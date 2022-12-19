@@ -1,2 +1,2 @@
-# karma-k-sayi
-Karmşık sayılarda İşlem(+ - * / += *= /= -=)
+Karmaşık sayılarda İşlem(+ - * / += *= /= -=) iŞLEMLERİ yapılıyor
+
